@@ -1,5 +1,5 @@
 import './App.css';
-import Maincon from './componets/main';
+import Maincon from './componets/main2';
 import Navigation from './componets/navigation';
 
 

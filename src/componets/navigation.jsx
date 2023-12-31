@@ -7,7 +7,7 @@ const Navigation =()=>{
               
         <nav>
         <div className="logo">
-          <img src="src/image/brand_logo.png" alt="logo" />
+          <img src="/image/brand_logo.png" alt="logo" />
         </div>
         <ul>
           <li>Menu</li>
